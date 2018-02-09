@@ -1,12 +1,12 @@
 import * as React from 'react';
 import ReactEcharts from 'echarts-for-react';
 
-export class Chart extends React.Component {
+export class DemoChart extends React.Component {
 
     getOption = () => {
         return {
           title: {
-            text: 'Baller Chart'
+            text: 'Pretty Epic Demo Chart'
           },
           tooltip : {
             trigger: 'axis'

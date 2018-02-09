@@ -1,6 +1,12 @@
 #React Typescript with ECharts Demo
 
+https://ecomfe.github.io/echarts-doc/public/en/index.html
 http://git.hust.cc/echarts-for-react/#/?_k=i7nsg7
+
+renders the chart in a HTML canvas
+
+Typescript support
+
 
 
 
